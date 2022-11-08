@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-deploy-delicious/static/css/main.52ff9034.css",
+    "main.js": "/React-deploy-delicious/static/js/main.ce32caac.js",
+    "index.html": "/React-deploy-delicious/index.html",
+    "main.52ff9034.css.map": "/React-deploy-delicious/static/css/main.52ff9034.css.map",
+    "main.ce32caac.js.map": "/React-deploy-delicious/static/js/main.ce32caac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ff9034.css",
+    "static/js/main.ce32caac.js"
+  ]
+}
